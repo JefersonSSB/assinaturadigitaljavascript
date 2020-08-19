@@ -194,11 +194,11 @@ body.decrypt .if-decrypt {
 }
 
 .button.green {
-	background-color: #92cd84;
+	background-color: #7fff00;
 }
 
-.button.magenta {
-	background-color: #ddd272;
+.button.yellow {
+	background-color: #fde910;
 }
 
 .button.blue {
@@ -250,7 +250,7 @@ body.decrypt .if-decrypt {
 
 
 #step1 {
-	background-color: #75c0d1;
+	background-color: #9393f3;
 }
 
 body.encrypt #step2 {

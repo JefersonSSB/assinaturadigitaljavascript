@@ -212,11 +212,11 @@ body.decrypt .if-decrypt {
 /* Styles for specific buttons */
 
 .button.browse {
-	width: 180px;
+	width: 200px;
 }
 
 .button.process {
-	width: 250px;
+	width: 255px;
 }
 
 .button.download {
